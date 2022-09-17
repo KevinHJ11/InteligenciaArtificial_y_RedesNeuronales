@@ -1,1 +1,1 @@
-En este folder de alamcenarán las actividades correspondiente a el semestre Ago-Dic 2022.
+En este folder se alamcenarán las actividades correspondiente a el semestre Ago-Dic 2022.
